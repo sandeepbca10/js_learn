@@ -1,2 +1,2 @@
 # js_learn
-A code js repo
+A code repo for javascript
